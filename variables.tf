@@ -37,7 +37,7 @@ variable "type" {
 
 # Key 
 variable "key_name" {
-  default = "Key"
+  default = "batch1"
 }
 
 # Instance count
